@@ -67,7 +67,7 @@ netease_comment: false
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "sddy slyz高二菜鸡OIer"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -94,119 +94,80 @@ page-mathjax: true
 
 friends: [
     {
-        title: "fireinice",
-        href: "https://fireinicecode.github.io/"
+        title: "do_while_true",
+        href: "https://www.luogu.com.cn/user/223298"
     },{
-        title: "Pbri",
-        href: "https://www.luogu.com.cn/blog/rubik-aoyi715103/"
+        title: "modinte",
+        href: "https://www.luogu.com.cn/user/173690"
     },{
-        title: "SD!LTF",
-        href: "https://www.cnblogs.com/sdltf"
+        title: "LgxTpre",
+        href: "https://www.luogu.com.cn/user/66709"
     },{
-        title: "dbxxx",
-        href: "https://www.cnblogs.com/crab-in-the-northeast"
+        title: "老子是北瓜",
+        href: "https://www.luogu.com.cn/user/121813"
     },{
-        title: "Return.",
-        href: "https://www.cnblogs.com/return-blog"
+        title: "Larry76",
+        href: "https://www.luogu.com.cn/user/254315"
     },{
-        title: "jzk",
-        href: "https://www.cnblogs.com/ZhengkunJia"
+        title: "HMSF",
+        href: "https://www.luogu.com.cn/user/130483"
     },{
-        title: "Coelacanthus",
-        href: "https://blog.lhwcrt.top/"
+        title: "黄哟哟哟",
+        href: "https://www.luogu.com.cn/user/134329"
     },{
-        title: "_zkw",
-        href: "https://www.luogu.com.cn/blog/away-forever/"
+        title: "Harry27182",
+        href: "https://www.luogu.com.cn/user/376997"
     },{
         title: "Refined_heart",
         href: "https://www.cnblogs.com/h-lka/"
     },{
-        title: "Sxy_Limit",
-        href: "https://www.cnblogs.com/Sxy_Limit/"
+        title: "Alan_Zhao",
+        href: "https://www.luogu.com.cn/user/225625"
     },{
-        title: "tommymio",
-        href: "https://www.luogu.com.cn/blog/infinity-dimension/"
+        title: "Anonymely",
+        href: "https://www.luogu.com.cn/user/550957"
     },{
-        title: "YoungTom",
-        href: "https://www.luogu.com.cn/user/192773"
+        title: "cxm1024",
+        href: "https://www.luogu.com.cn/user/148812"
     },{
-        title: "fty",
-        href: "https://www.luogu.com.cn/blog/ljfty666666666666/"
+        title: "waauto",
+        href: "https://www.luogu.com.cn/user/355192"
     },{
-        title: "Var1ous",
-        href: "https://www.luogu.com.cn/blog/Rout-Execut0r/"
+        title: "EXODUS",
+        href: "https://www.luogu.com.cn/user/373699"
     },{
-        title: "Histone",
-        href: "http://47.102.209.15/"
+        title: "啊啊啊12321",
+        href: "https://www.luogu.com.cn/user/212969"
     },{
-        title: "CCCCOrz",
-        href: "https://www.luogu.com.cn/user/179182"
+        title: "Querainy",
+        href: "https://www.luogu.com.cn/user/152213"
     },{
-        title: "cunzai_zsy0531",
-        href: "https://www.luogu.com.cn/user/160484"
+        title: "LHLeisus",
+        href: "https://www.luogu.com.cn/user/332123"
     },{
-        title: "knifebrother",
-        href: "https://www.luogu.com.cn/user/150555"
+        title: "cuiyulin",
+        href: "https://www.luogu.com.cn/user/372087"
     },{
-        title: "东灯",
-        href: "https://lampese.com"
+        title: "dyyzy",
+        href: "https://www.luogu.com.cn/user/461012"
     },{
-        title: "do_while_true",
-        href: "https://do-while-true.github.io/"
+        title: "definieren",
+        href: "https://www.luogu.com.cn/user/432948"
     },{
-        title: "Virtualman",
+        title: "_Tyrue_",
         href: "http://virtualman.top"
     },{
-        title: "q0000000",
-        href: "https://www.luogu.com.cn/user/356120"
+        title: "aCssen",
+        href: "https://www.luogu.com.cn/user/534296"
     },{
         title: "绝顶我为峰",
         href: "https://www.cnblogs.com/Forza-Ferrari/"
-    },{
-        title: "lytqwq",
-        href: "https://www.luogu.com.cn/user/104319"
-    },{
-        title: "vectorwyx",
-        href: "https://www.luogu.com.cn/blog/dream-of-Au/"
-    },{
-        title: "suxxsfe",
-        href: "https://www.cnblogs.com/suxxsfe/"
-    },{
-        title: "lindongli2004",
-        href: "https://www.luogu.com.cn/blog/lindongli2004/"
-    },{
-        title: "jhqqwq",
-        href: "https://www.cnblogs.com/jhqqwq/"
-    },{
-        title: "无尽星空",
-        href: "https://www.luogu.com.cn/user/179253"
-    },{
-        title: "dhclient",
-        href: "https://www.luogu.com.cn/user/638646"
-    },{
-        title: "Zimse",
-        href: "https://www.luogu.com.cn/user/328485"
-    },{
-        title: "zimujun",
-        href: "https://www.cnblogs.com/zimujun/"
-    },{
-        title: "Wild_Donkey",
-        href: "https://wild-donkey.github.io/"
-    },{
-        title: "RyexAwl",
-        href: "https://www.luogu.com.cn/blog/maxsama/"
-    },{
-        title: "Ziqqurat",
-        href: "https://www.cnblogs.com/ziqqurat"
-    },{
-        title: "XiaU",
-        href: "https://summace.cc/"
     }
 ]
 
 gitalk_enable: true
 gitalk_client_id: '06b7efda61742d7e5a44'
 gitalk_client_secret: '297d5ae3c7558d570bc3deead920d58ad298c302'
-gitalk_repo: 'shanlunjiajian.github.io'
-gitalk_owner: 'ShanLunjiaJian'
-gitalk_admin: ['ShanLunjiaJian','pbrinotwyh','vectorwyx','fireinicecode']
+gitalk_repo: 'WrongAnswer90.github.io'
+gitalk_owner: 'WrongAnswer90'
+gitalk_admin: ['WrongAnswer90','ShanLunjiaJian','pbrinotwyh','vectorwyx','fireinicecode']
