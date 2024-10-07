@@ -622,7 +622,7 @@ pre.highlight {
   width: 100%;
   font-size: 30px;
   font-weight: bold;
-  color: #404040;
+  color: #f8f8f8;
 }
 @media only screen and (min-width: 768px) {
   .search-page #search-input {
