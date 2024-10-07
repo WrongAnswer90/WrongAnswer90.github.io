@@ -67,9 +67,9 @@ netease_comment: false
 
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "sddy slyz高二菜鸡OIer"
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -165,7 +165,7 @@ friends: [
     }
 ]
 
-gitalk_enable: true
+gitalk_enable: false
 gitalk_client_id: '06b7efda61742d7e5a44'
 gitalk_client_secret: '297d5ae3c7558d570bc3deead920d58ad298c302'
 gitalk_repo: 'WrongAnswer90.github.io'
