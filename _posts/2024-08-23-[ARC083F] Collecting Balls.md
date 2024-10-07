@@ -2,7 +2,7 @@
 layout: post
 title: ARC083F Collecting Balls
 subtitle: 题解
-tags: 数数 AT
+tags: 题解 数数 AT
 show: true
 ---
 

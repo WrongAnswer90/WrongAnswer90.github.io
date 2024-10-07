@@ -2,7 +2,7 @@
 layout: post
 title: AGC067B Modifications
 subtitle: 题解
-tags: 数数 区间DP 容斥 AT
+tags: 题解 数数 区间DP 容斥 AT
 show: true
 ---
 

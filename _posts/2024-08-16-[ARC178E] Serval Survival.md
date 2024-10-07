@@ -2,7 +2,7 @@
 layout: post
 title: ARC178E Serval Survival
 subtitle: 题解
-tags: 数数 多项式 生成函数 AT
+tags: 题解 数数 多项式 生成函数 AT
 show: true
 ---
 

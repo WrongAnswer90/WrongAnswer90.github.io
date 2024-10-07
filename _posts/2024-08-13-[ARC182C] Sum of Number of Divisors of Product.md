@@ -2,7 +2,7 @@
 layout: post
 title: ARC182C Sum of Number of Divisors of Product
 subtitle: 题解
-tags: 组合意义 矩阵快速幂 状压DP AT
+tags: 题解 组合意义 矩阵快速幂 状压DP AT
 show: true
 ---
 

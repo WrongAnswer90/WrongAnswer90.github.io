@@ -2,7 +2,7 @@
 layout: post
 title: ABC367G Sum of (XOR^K or 0)
 subtitle: 题解
-tags: FWT AT
+tags: 题解 FWT AT
 show: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: ARC171E Rookhopper's Tour
 subtitle: 题解
-tags: 数数 AT
+tags: 题解 数数 AT
 show: true
 ---
 

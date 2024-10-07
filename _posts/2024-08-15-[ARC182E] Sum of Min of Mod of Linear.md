@@ -2,7 +2,7 @@
 layout: post
 title: ARC182E Sum of Min of Mod of Linear
 subtitle: 题解
-tags: 万欧 AT
+tags: 题解 万欧 AT
 show: true
 ---
 

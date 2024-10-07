@@ -2,7 +2,7 @@
 layout: post
 title: ARC180E LIS and Inversion
 subtitle: 题解
-tags: DP优化 AT
+tags: 题解 DP优化 AT
 show: true
 ---
 

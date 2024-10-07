@@ -2,7 +2,7 @@
 layout: post
 title: ARC171C Swap on Tree
 subtitle: 题解
-tags: 数数 多项式 AT
+tags: 题解 数数 多项式 AT
 show: true
 ---
 

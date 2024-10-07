@@ -2,7 +2,7 @@
 layout: post
 title: ABC221G Jumping sequence
 subtitle: 题解
-tags: DP优化 AT
+tags: 题解 DP优化 AT
 show: true
 ---
 

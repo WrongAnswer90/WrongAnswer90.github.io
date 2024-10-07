@@ -2,7 +2,7 @@
 layout: post
 title: ARC181F Colorful Reversi
 subtitle: 题解
-tags: AT
+tags: 题解 AT
 show: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: ARC182F Graph of Mod of Linear
 subtitle: 题解
-tags: 数论 同余 AT
+tags: 题解 数论 同余 AT
 show: true
 ---
 

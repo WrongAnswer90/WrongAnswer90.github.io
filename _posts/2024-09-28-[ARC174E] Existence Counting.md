@@ -2,7 +2,7 @@
 layout: post
 title: ARC174E Existence Counting
 subtitle: 题解
-tags: DP优化 数数 AT
+tags: 题解 DP优化 数数 AT
 show: true
 ---
 
