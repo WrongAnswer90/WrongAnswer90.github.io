@@ -3,6 +3,7 @@ layout: post
 title: THUSC PKUSC APIO 游记
 subtitle: 游记
 show: true
+tags: 游记
 ---
 
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18202126)
