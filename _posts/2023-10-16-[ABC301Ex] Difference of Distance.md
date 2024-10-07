@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [ABC301Ex] Difference of Distance
+title: ABC301Ex Difference of Distance
 subtitle: AT
 tags: 图论，边双
 show: true
