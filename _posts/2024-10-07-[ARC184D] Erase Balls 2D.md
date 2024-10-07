@@ -2,7 +2,7 @@
 layout: post
 title: ARC184D Erase Balls 2D
 subtitle: 题解
-tags: 题解 数数 双射构造 CF
+tags: 题解 数数 双射构造 AT
 show: true
 ---
 
