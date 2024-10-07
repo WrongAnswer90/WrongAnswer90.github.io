@@ -1,3 +1,11 @@
+---
+layout: post
+title: AGC036F Square Constraints
+subtitle: 题解
+tags: 题解 容斥 数数 AT
+show: true
+---
+
 [[AGC036F] Square Constraints](https://www.luogu.com.cn/problem/AT_agc036_f)
 
 [更好的阅读体验](https://www.cnblogs.com/WrongAnswer90-home/p/18034997)

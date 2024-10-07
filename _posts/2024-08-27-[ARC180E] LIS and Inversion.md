@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC180E LIS and Inversion
+subtitle: 题解
+tags: DP优化 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18381998)
 
 ### [[ARC180E] LIS and Inversion](https://www.luogu.com.cn/problem/AT_arc180_e)

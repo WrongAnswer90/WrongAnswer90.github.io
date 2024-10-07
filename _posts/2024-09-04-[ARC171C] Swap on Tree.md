@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC171C Swap on Tree
+subtitle: 题解
+tags: 数数 多项式 AT
+show: true
+---
+
 # [My Blogs]()
 
 ### [[ARC171C] Swap on Tree](https://www.luogu.com.cn/problem/AT_arc171_c)

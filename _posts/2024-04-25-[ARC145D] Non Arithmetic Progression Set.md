@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC145D Non Arithmetic Progression Set
+subtitle: 题解
+tags: 题解 构造 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18157231)
 
 ### [[ARC145D] Non Arithmetic Progression Set](https://www.luogu.com.cn/problem/AT_arc145_d)

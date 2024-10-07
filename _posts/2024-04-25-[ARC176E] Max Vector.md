@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC176E Max Vector
+subtitle: 题解
+tags: 题解 网络流 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18158723)
 
 ### [[ARC176E] Max Vector](https://www.luogu.com.cn/problem/AT_arc176_e)

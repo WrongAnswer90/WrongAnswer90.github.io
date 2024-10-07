@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC181E Min and Max at the edge
+subtitle: 题解
+tags: 题解 线段树 最小生成树 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18348887)
 
 ### [[ARC181E] Min and Max at the edge](https://www.luogu.com.cn/problem/AT_arc181_e)

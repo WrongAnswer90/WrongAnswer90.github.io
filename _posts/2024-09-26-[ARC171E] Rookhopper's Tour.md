@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC171E Rookhopper's Tour
+subtitle: 题解
+tags: 数数 AT
+show: true
+---
+
 # [My Blogs]()
 
 ### [[ARC171E] Rookhopper's Tour](https://www.luogu.com.cn/problem/AT_arc171_e)

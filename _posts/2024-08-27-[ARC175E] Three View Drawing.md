@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC175E Three View Drawing
+subtitle: 题解
+tags: 构造 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18382795)
 
 ### [[ARC175E] Three View Drawing](https://www.luogu.com.cn/problem/AT_arc175_e)

@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC182F Graph of Mod of Linear
+subtitle: 题解
+tags: 数论 同余 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18356144)
 
 ### [[ARC182F] Graph of Mod of Linear](https://www.luogu.com.cn/problem/AT_arc182_f)

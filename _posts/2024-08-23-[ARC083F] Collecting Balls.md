@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC083F Collecting Balls
+subtitle: 题解
+tags: 数数 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18375448)
 
 ### [[ARC083F] Collecting Balls](https://www.luogu.com.cn/problem/AT_arc083_d)

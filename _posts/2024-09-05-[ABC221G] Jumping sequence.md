@@ -1,3 +1,11 @@
+---
+layout: post
+title: ABC221G Jumping sequence
+subtitle: 题解
+tags: DP优化 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18399404)
 
 ### [[ABC221G] Jumping sequence](https://www.luogu.com.cn/problem/AT_abc221_g)

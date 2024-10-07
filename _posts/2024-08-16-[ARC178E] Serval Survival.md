@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC178E Serval Survival
+subtitle: 题解
+tags: 数数 多项式 生成函数 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18362386)
 
 ### [[ARC178E] Serval Survival](https://www.luogu.com.cn/problem/AT_arc178_e)

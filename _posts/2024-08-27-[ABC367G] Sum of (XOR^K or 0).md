@@ -1,3 +1,11 @@
+---
+layout: post
+title: ABC367G Sum of (XOR^K or 0)
+subtitle: 题解
+tags: FWT AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18383402)
 
 ### [[ABC367G] Sum of (XOR^K or 0)](https://www.luogu.com.cn/problem/AT_abc367_g)

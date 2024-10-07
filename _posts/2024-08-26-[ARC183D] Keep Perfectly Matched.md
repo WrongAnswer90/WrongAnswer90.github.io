@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC183D Keep Perfectly Matched
+subtitle: 题解
+tags: 构造 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18380150)
 
 ### [[ARC183D] Keep Perfectly Matched](https://www.luogu.com.cn/problem/AT_arc183_d)

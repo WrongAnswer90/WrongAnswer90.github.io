@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC176D Swap Permutation
+subtitle: 题解
+tags: 数数 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18377491)
 
 ### [[ARC176D] Swap Permutation](https://www.luogu.com.cn/problem/AT_arc176_d)

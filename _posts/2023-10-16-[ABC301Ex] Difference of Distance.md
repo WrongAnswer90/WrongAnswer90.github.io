@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ABC301Ex Difference of Distance
-subtitle: AT
-tags: 图论，边双
+subtitle: 题解
+tags: 题解 图论 边双 AT
 show: true
 ---
 

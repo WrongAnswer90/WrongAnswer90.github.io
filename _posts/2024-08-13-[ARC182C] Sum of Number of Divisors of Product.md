@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC182C Sum of Number of Divisors of Product
+subtitle: 题解
+tags: 组合意义 矩阵快速幂 状压DP AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18356106)
 
 ### [[ARC182C] Sum of Number of Divisors of Product](https://www.luogu.com.cn/problem/AT_arc182_c)

@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC174E Existence Counting
+subtitle: 题解
+tags: DP优化 数数 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18384272)
 
 ### [[ARC174E] Existence Counting](https://www.luogu.com.cn/problem/AT_arc174_e)

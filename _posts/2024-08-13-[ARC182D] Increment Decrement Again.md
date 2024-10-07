@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC182D Increment Decrement Again
+subtitle: 题解
+tags: AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18356203)
 
 ### [[ARC182D] Increment Decrement Again](https://www.luogu.com.cn/problem/AT_arc182_d)

@@ -1,3 +1,11 @@
+---
+layout: post
+title: AGC067B Modifications
+subtitle: 题解
+tags: 数数 区间DP 容斥 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18378739)
 
 ### [[AGC067B] Modifications](https://www.luogu.com.cn/problem/AT_agc067_b)

@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC177F Two Airlines
+subtitle: 题解
+tags: DP优化 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18377096)
 
 ### [[ARC177F] Two Airlines](https://www.luogu.com.cn/problem/AT_arc177_f)

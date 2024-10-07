@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC173F Select and Split
+subtitle: 题解
+tags: 数数 行列式 生成函数 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18391786)
 
 ### [[ARC173F] Select and Split](https://www.luogu.com.cn/problem/AT_arc173_f)

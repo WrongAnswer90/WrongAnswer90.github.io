@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC181F Colorful Reversi
+subtitle: 题解
+tags: AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18349625)
 
 ### [[ARC181F] Colorful Reversi](https://www.luogu.com.cn/problem/AT_arc181_f)

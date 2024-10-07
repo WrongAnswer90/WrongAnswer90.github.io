@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC150F Constant Sum Subsequence
+subtitle: 题解
+tags: 题解 分治 DP优化 AT
+show: true
+---
+
 [更好的阅读体验](https://www.cnblogs.com/WrongAnswer90-home/p/17946736)
 
 [[ARC150F] Constant Sum Subsequence](https://www.luogu.com.cn/problem/AT_arc150_f)

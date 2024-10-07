@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC176F Colorful Star
+subtitle: 题解
+tags: 题解 数数 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18162228)
 
 ### [[ARC176F] Colorful Star](https://www.luogu.com.cn/problem/AT_arc176_f)

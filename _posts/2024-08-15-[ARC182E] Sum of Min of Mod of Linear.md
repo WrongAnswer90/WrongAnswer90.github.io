@@ -1,3 +1,11 @@
+---
+layout: post
+title: ARC182E Sum of Min of Mod of Linear
+subtitle: 题解
+tags: 万欧 AT
+show: true
+---
+
 # [My Blogs](https://www.cnblogs.com/WrongAnswer90/p/18360984)
 
 ### [[ARC182E] Sum of Min of Mod of Linear](https://www.luogu.com.cn/problem/AT_arc182_e)

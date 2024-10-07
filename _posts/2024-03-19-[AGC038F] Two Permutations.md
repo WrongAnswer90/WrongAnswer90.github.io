@@ -1,3 +1,11 @@
+---
+layout: post
+title: AGC036F Square Constraints
+subtitle: 题解
+tags: 题解 容斥 数数 AT
+show: true
+---
+
 [AT_agc038_f [AGC038F] Two Permutations](https://www.luogu.com.cn/problem/AT_agc038_f)
 
 [更好的阅读体验](https://www.cnblogs.com/WrongAnswer90-home/p/18083524)
