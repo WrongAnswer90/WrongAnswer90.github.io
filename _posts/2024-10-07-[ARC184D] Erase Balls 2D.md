@@ -6,7 +6,7 @@ tags: 题解 数数 双射构造 CF
 show: true
 ---
 
-# [My Blogs](wronganswer90.github.io/2024/10/07/ARC184D-Erase-Balls-2D)
+# [My Blogs](https://wronganswer90.github.io/2024/10/07/ARC184D-Erase-Balls-2D)
 
 ### [[ARC184D] Erase Balls 2D](https://www.luogu.com.cn/problem/AT_arc184_d)
 
