@@ -6,6 +6,7 @@ inline void commit()
 {
 	char s[210];
 	time_t tmp;
+	//ababa
 	time(&tmp);
 	struct tm *p;
 	p=localtime(&tmp);
