@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [ARC184E] Accumulating Many Times
+title: ARC184E Accumulating Many Times
 subtitle: 题解
 tags: 题解 数数 NTT Lucas定理 AT
 show: true
