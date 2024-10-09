@@ -113,6 +113,6 @@ inline void get()
 }
 int main()
 {
-//	get();
+	get();
 	commit();
 }
