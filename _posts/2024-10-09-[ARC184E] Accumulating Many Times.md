@@ -6,6 +6,8 @@ tags: 题解 数数 NTT Lucas定理 AT
 show: true
 ---
 
+# [My Blogs](https://wronganswer90.github.io/2024/10/09/ARC184E-Accumulating-Many-Times)
+
 ### [[ARC184E] Accumulating Many Times](https://www.luogu.com.cn/problem/AT_arc184_e)
 
 感觉比 C 简单啊/kk。文中序列下标从 $0$ 开始。
