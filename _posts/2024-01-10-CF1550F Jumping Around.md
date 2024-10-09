@@ -19,7 +19,7 @@ show: true
 直接求肯定没有前途，考虑加入一个点对其他点 $v_i$ 的贡献：
 
 $$
-v_j=\min(v_j,\max(v_i,\min(|a_j-(a_i-d)|,|a_j-(a_i+d)|)))
+v_j=\min(v_j,\max(v_i,\min(\lvert a_j-(a_i-d)\rvert,\lvert a_j-(a_i+d)\rvert)))
 $$
 
 然后可以把 $\max$ 和绝对值暴力拆开，可以变成区间 $v_i=\min(v_i,x-a_i)$ 和 $v_i=\min(v_i,x+a_i)$ 和 $v_i=\min(v_i,x)$。图大概就是这样的：

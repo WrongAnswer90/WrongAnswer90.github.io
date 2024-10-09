@@ -29,7 +29,7 @@ $$
 
 $\lfloor\frac{\lfloor\frac {j-1} x\rfloor+1-1}{y}\rfloor+1=\lfloor\frac j {xy}\rfloor+1$
 
-所以无论 $k$ 被怎么削，状态只会在 $S=\{\lfloor\frac k i\rfloor|i\in [1,k]\}$ 的 $\mathcal O(\sqrt k)$ 个数中，所以状态数变成了 $\mathcal O(n\sqrt k)$。
+所以无论 $k$ 被怎么削，状态只会在 $S=\{\lfloor\frac k i\rfloor\vert i\in [1,k]\}$ 的 $\mathcal O(\sqrt k)$ 个数中，所以状态数变成了 $\mathcal O(n\sqrt k)$。
 
 第二个问题，一眼想到把 $a$ 整除分块变成 $\mathcal O(\sqrt a)$ 个有价值的 $b$，看上去非常的有道理，但乘上状态数当场爆炸。正确的做法是对于状态进行数论分块，对于 $\lfloor\frac j x\rfloor$ 相同的 $x$ 的区间，只需要取最优的左端点进行转移。这样复杂度可以由类似杜教筛的分析方式得出，为 $\mathcal O(k^{0.75})$。
 

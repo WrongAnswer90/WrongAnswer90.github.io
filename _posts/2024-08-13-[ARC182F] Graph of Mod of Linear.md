@@ -78,7 +78,7 @@ $$
 $$
 \begin{aligned}
 &\frac N{N'}\sum_{i<N'} C_{\gcd(i,N')}\\
-=&\frac N{N'}\sum_{i|N'} C_i\varphi(\frac{N'}{i})
+=&\frac N{N'}\sum_{i\vert N'} C_i\varphi(\frac{N'}{i})
 \end{aligned}
 $$
 
@@ -86,10 +86,10 @@ $$
 
 首先有性质：
 
-1. 若 $x|y$，则 $\varphi(x)|\varphi(y)$。
+1. 若 $x\vert y$，则 $\varphi(x)\vert \varphi(y)$。
 2. $A^k\equiv 1\pmod n$ 的解都是 $\varphi(n)$ 的因数并且 $k$ 一定能被表示成 $xk_0$，其中 $k_0$ 表示最小解。
 
-若 $n1\leq n2,n1|n2,n2|N'$，则：
+若 $n1\leq n2,n1\vert n2,n2\vert N'$，则：
 
 $$
 \begin{aligned}
