@@ -15,9 +15,15 @@ inline void commit()
 	
 	int x=system("git add .");
 	int y=system(s);
-	int z=system("git push -f origin main");
-	
+	int z;
+	again:
+	z=system("git push -f origin main");
 	cerr<<x<<" "<<y<<" "<<z<<endl;
+	if(z)
+	{
+		Sleep(20000);
+		goto again;
+	}
 }
 int len;
 int len2;
