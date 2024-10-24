@@ -107,7 +107,6 @@ inline void get()
 	t+="# [My Blogs](https://wronganswer90.github.io/"+T+")\n";
 	t+="\n";
 	
-	
 	fout<<string_to_UTF8(t);
 	for(int i=0;i<len;++i)fout<<s[i]<<"\n";
 }
