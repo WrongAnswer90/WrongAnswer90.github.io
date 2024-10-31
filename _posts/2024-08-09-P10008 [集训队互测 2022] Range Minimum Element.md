@@ -22,8 +22,8 @@ show: true
 
 $$
 \begin{aligned}
-f_{l,r,x}&\leftarrow [[l,r]\text{合法}]\times f_{l,r,x+1}\\
-f_{l,r,x}&\leftarrow [[l,p-1]\text{合法}]\times f_{l,p-1,x+1}\times f_{p+1,r,x}
+f_{l,r,x}&\leftarrow [[l,r]\mathrm{合法}]\times f_{l,r,x+1}\\
+f_{l,r,x}&\leftarrow [[l,p-1]\mathrm{合法}]\times f_{l,p-1,x+1}\times f_{p+1,r,x}
 \end{aligned}
 $$
 

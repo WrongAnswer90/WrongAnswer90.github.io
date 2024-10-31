@@ -16,25 +16,25 @@ show: true
 
 $$
 \begin{aligned}
-f_k&=[x^k]\text{FWT}(\prod_i F_i(x))\\
-&=\prod_i ((-1)^{\text{popcount}(k\And a_i)}+(-1)^{\text{popcount}(k\And 0)})\\
-&=\prod_i ((-1)^{\text{popcount}(k\And a_i)}+1)\\
+f_k&=[x^k]\mathrm{FWT}(\prod_i F_i(x))\\
+&=\prod_i ((-1)^{\mathrm{popcount}(k\And a_i)}+(-1)^{\mathrm{popcount}(k\And 0)})\\
+&=\prod_i ((-1)^{\mathrm{popcount}(k\And a_i)}+1)\\
 \end{aligned}
 $$
 
-所以只需要对于每个 $k$ 求出求出 $\text{popcount}(k\And a_i)$ 是奇数和偶数的 $j$ 的个数。考虑构造一个新的集合幂级数 $G_i(x)$，满足 $G_i(x)=x^{a_i}$，所以 $\text{FWT}(G_i(x))=\sum_j x^j(-1)^{\text{popcount}(j\And a_i)}$。
+所以只需要对于每个 $k$ 求出求出 $\mathrm{popcount}(k\And a_i)$ 是奇数和偶数的 $j$ 的个数。考虑构造一个新的集合幂级数 $G_i(x)$，满足 $G_i(x)=x^{a_i}$，所以 $\mathrm{FWT}(G_i(x))=\sum_j x^j(-1)^{\mathrm{popcount}(j\And a_i)}$。
 
 $$
-g_k=\sum_{i}(-1)^{\text{popcount}(k\And a_i)}=\sum_i [x^k]\text{FWT}(G_i(x))
+g_k=\sum_{i}(-1)^{\mathrm{popcount}(k\And a_i)}=\sum_i [x^k]\mathrm{FWT}(G_i(x))
 $$
 
 因为 FWT 是线性变换，所以
 
 $$
-g_k=[x^k]\text{FWT}(\sum_i G_i(x))
+g_k=[x^k]\mathrm{FWT}(\sum_i G_i(x))
 $$
 
-$x$ 表示 $\text{popcount}(k\And a_i)$ 是偶数的个数，$y$ 表示奇数，则有
+$x$ 表示 $\mathrm{popcount}(k\And a_i)$ 是偶数的个数，$y$ 表示奇数，则有
 
 $$
 \left\{\begin{matrix}

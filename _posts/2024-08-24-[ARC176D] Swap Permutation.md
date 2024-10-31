@@ -12,14 +12,14 @@ show: true
 
 对每个位置分别算贡献。一个很重要的观察是其他所有数都是等价的（非常神奇）。设 $A$ 表示原来 $i$ 位置上的数，$B$ 表示原来 $i+1$ 位置上的数，$C$ 表示其他的数，设 $f_{0\sim 7}$ 表示经过 $m$ 次操作之后 $AB,BA,AC,CA,BC,CB,CC$ 的概率。每个位置 $i$ 的 $f$ 都是相同的。转移系数应该比较容易手搓出来，预处理 $f$ 可以暴力 DP，也可以矩阵快速幂（所以其实可以做 $m=10^{18}$ 的）。
 
-设 $sum_i$ 表示 $\sum_j\text{abs}(i-j)$，$all$ 表示 $\sum_i\sum_j\text{abs}(i-j)$。对于第 $i$ 个位置，其贡献为：
+设 $sum_i$ 表示 $\sum_j\mathrm{abs}(i-j)$，$all$ 表示 $\sum_i\sum_j\mathrm{abs}(i-j)$。对于第 $i$ 个位置，其贡献为：
 
 $$
 \begin{aligned}
-&(f_0+f_1)\text{abs}(a_i-a_{i+1})\\
-+&(f_2+f_3)\frac{(sum_{a_i}-\text{abs}(a_i-a_{i+1}))}{n-2}\\
-+&(f_4+f_5)\frac{(sum_{a_{i+1}}-\text{abs}(a_i-a_{i+1}))}{n-2}\\
-+&f_6\frac{all-sum_{a_{i+1}}-sum_{a_i}+\text{abs}(a_i-a_{i+1}))}{\binom{n-2}2}\\
+&(f_0+f_1)\mathrm{abs}(a_i-a_{i+1})\\
++&(f_2+f_3)\frac{(sum_{a_i}-\mathrm{abs}(a_i-a_{i+1}))}{n-2}\\
++&(f_4+f_5)\frac{(sum_{a_{i+1}}-\mathrm{abs}(a_i-a_{i+1}))}{n-2}\\
++&f_6\frac{all-sum_{a_{i+1}}-sum_{a_i}+\mathrm{abs}(a_i-a_{i+1}))}{\binom{n-2}2}\\
 \end{aligned}
 $$
 

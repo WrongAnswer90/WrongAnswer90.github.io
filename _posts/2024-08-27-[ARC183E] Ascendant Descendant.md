@@ -10,7 +10,7 @@ show: true
 
 ### [[ARC183E] Ascendant Descendant](https://www.luogu.com.cn/problem/AT_arc183_e)
 
-一个直接的想法是求出 $L_i,R_i$ 表示极大的区间 $[L_i,R_i]$ 满足 $\forall j\in[L_i,R_i],b_j\in \text{subtree}(a_i)$。由于树的性质，$[L_i,R_i]$ 之间要么相离，要么包含。
+一个直接的想法是求出 $L_i,R_i$ 表示极大的区间 $[L_i,R_i]$ 满足 $\forall j\in[L_i,R_i],b_j\in \mathrm{subtree}(a_i)$。由于树的性质，$[L_i,R_i]$ 之间要么相离，要么包含。
 
 但是 $L_i,R_i$ 并不是 $i$ 能真正到达的点。因为 $i$ 只能一个一个交换过去，中途可能会有一些点阻碍着 $i$ 的交换。具体的，把 $[L_i,R_i]$ 构成的树形结构建出来，会阻碍交换的点就是满足 $siz_i=R_i-L_i+1$ 的整棵子树。必要性和充分性都比较显然。（但是想不到啊）
 

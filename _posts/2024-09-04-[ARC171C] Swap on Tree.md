@@ -16,7 +16,7 @@ show: true
 
 考虑 $i$ 和 $i$ 的所有儿子，如果选择了 $S$ 作为要与 $i$ 交换的子树集合，则权值是 $\lvert S\rvert!\prod_{i\in S}(\sum_j jf_{i,j})\prod_{i\notin S}(\sum_j f_{i,j})$，其中 $f_{i,j}$ 表示 $i$ 子树内颜色改变次数是 $j$ 的方案数。$\lvert S\rvert!$ 是因为在确定 $i$ 和集合内所有点的操作顺序，$jf_{i,j}$ 是因为对于在集合里的点有颜色切换次数个本质不同的交换方案。
 
-暴力做是 $\mathcal O(n^2)$ 的。设 $g_{i,0}=\sum_i f_{x,i},g_{i,1}=\sum_i if_{x,i}$。设多项式 $F_u(x)=g_{u,0}+g_{u,1}x$，则 $f_{u,k+1}$ 即为 $k![x^k]\prod_{v\in\text{son}(u)}F_v(x)$。
+暴力做是 $\mathcal O(n^2)$ 的。设 $g_{i,0}=\sum_i f_{x,i},g_{i,1}=\sum_i if_{x,i}$。设多项式 $F_u(x)=g_{u,0}+g_{u,1}x$，则 $f_{u,k+1}$ 即为 $k![x^k]\prod_{v\in\mathrm{son}(u)}F_v(x)$。
 
 注意到要乘的多项式的总个数是 $\mathcal O(n)$ 的，所以可以用你喜欢的方法比如分治 NTT 或者先 ln 再 exp 做到 $\mathcal O(n\log^2 n)$ 或者 $\mathcal O(n\log n)$。
 
