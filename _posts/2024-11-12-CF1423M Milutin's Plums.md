@@ -10,7 +10,7 @@ show: true
 
 ### [CF1423M Milutin's Plums](https://www.luogu.com.cn/problem/CF1423M)
 
-完全单调性的定义：一个 $n\times m$ 的矩阵，如果对于所有 $S\subseteq \left \{1,2,3\dots n \right \}$，$T\subseteq \left \{1,2,3\dots m\right \}$，只保留 $S$ 中的行和 $T$ 中的列时，每行第一个最小值的位置都是非降的，则称其有完全单调性。
+完全单调性的定义：一个 $n\times m$ 的矩阵，如果对于所有 $S\subseteq \\{ 1,2,3\dots n \right \\} $，$T\subseteq \\{1,2,3\dots m \\}$，只保留 $S$ 中的行和 $T$ 中的列时，每行第一个最小值的位置都是非降的，则称其有完全单调性。
 
 SMAWK 算法：一种能在线性的单点询问次数内，求出一个满足完全单调性矩阵每行最小值及其位置的算法。
 
