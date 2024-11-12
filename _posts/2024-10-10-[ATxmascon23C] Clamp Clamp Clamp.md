@@ -43,7 +43,7 @@ $$
 \end{aligned}
 $$
 
-设 $\displaystyle f(i,x,y)=\sum_{k=1}^{n-1}k^x2^k\binom{2n-2k-y}{i-k}$，其中 $x,y\in\{0,1\}$，则可以整理出递推式：
+设 $\displaystyle f(i,x,y)=\sum_{k=1}^{n-1}k^x2^k\binom{2n-2k-y}{i-k}$，其中 $x,y\in\\{0,1\\}$，则可以整理出递推式：
 
 $$
 \begin{aligned}
