@@ -14,6 +14,7 @@ inline void commit()
 	
 	system("git add .");
 	system(s);
+	cerr<<"??SDFJKLSDFJKL:SDFJL:SDJFL:SDJF:LJSDF:LKSDJF\n";
 	int z;
 	again:
 	z=system("git push -f origin main");
