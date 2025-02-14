@@ -14,7 +14,6 @@ inline void commit()
 	
 	system("git add .");
 	system(s);
-	cerr<<"??SDFJKLSDFJKL:SDFJL:SDJFL:SDJF:LJSDF:LKSDJF\n";
 	int z;
 	again:
 	z=system("git push -f origin main");
@@ -24,3 +23,6 @@ int main()
 {
 	commit();
 }
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
