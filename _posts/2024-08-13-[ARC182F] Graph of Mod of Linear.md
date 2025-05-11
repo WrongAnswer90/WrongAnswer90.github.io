@@ -31,13 +31,13 @@ $$A(iA^N+B\frac{A^N-1}{A-1})+B\equiv jA^N+B\frac{A^N-1}{A-1}\pmod N$$
 取 $d=\gcd(A^N,N)$：
 
 $$
-\frac{A^N}{d}j=\frac{A^N}{d}Ai+\frac{A^N}{d}B\pmod \frac{N}{d}
+\frac{A^N}{d}j=\frac{A^N}{d}Ai+\frac{A^N}{d}B\pmod {\frac{N}{d}}
 $$
 
 因为 $\frac{A^N}{d}$ 和 $\frac{N}{d}$ 互质，所以：
 
 $$
-j=Ai+\frac{A^N}{d}B\pmod \frac{N}{d}
+j=Ai+\frac{A^N}{d}B\pmod {\frac{N}{d}}
 $$
 
 所以问题可以从 $(A,B,N)$ 变为 $(A\bmod \frac N d,B\times\frac{A^N} d\bmod \frac N d,\frac N d)$，转成了互质的情况。
